@@ -3,11 +3,11 @@
   <title>烟酒食杂</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lionlzq.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://lionlzq.xyz/"/>
   <updated>2020-09-23T15:30:08.860Z</updated>
-  <id>http://example.com/</id>
+  <id>http://lionlzq.xyz/</id>
   
   <author>
     <name>Lin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/09/23/hello-world/"/>
-    <id>http://example.com/2020/09/23/hello-world/</id>
+    <link href="http://lionlzq.xyz/2020/09/23/hello-world/"/>
+    <id>http://lionlzq.xyz/2020/09/23/hello-world/</id>
     <published>2020-09-23T15:30:08.860Z</published>
     <updated>2020-09-23T15:30:08.860Z</updated>
     
