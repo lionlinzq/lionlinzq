@@ -22,31 +22,10 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/2017/05/25/PyCharm%20%E7%9A%84%E5%88%9D%E5%A7%8B%E8%AE%BE%E7%BD%AE%EF%BC%88%E7%9F%A5%E9%81%93%EF%BC%89/</loc>
-    
-    <lastmod>2017-05-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2017/05/23/%E7%AC%AC%E4%B8%80%E4%B8%AA%20Python%20%E7%A8%8B%E5%BA%8F/</loc>
-    
-    <lastmod>2017-05-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2017/05/19/%E8%AE%A4%E8%AF%86%20Python/</loc>
-    
-    <lastmod>2017-05-19</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-10-05</lastmod>
+    <lastmod>2020-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
