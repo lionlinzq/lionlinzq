@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lionlzq.xyz/2020/10/08/%E4%B8%80%E6%AE%B5%E8%AF%84%E4%B9%A6/</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lionlzq.xyz/link/index.html</loc>
     
     <lastmod>2020-10-04</lastmod>
@@ -30,6 +37,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://lionlzq.xyz/tags/%E9%9A%8F%E8%AE%B0/</loc>
+    <lastmod>2020-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
