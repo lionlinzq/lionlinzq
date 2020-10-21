@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lionlzq.xyz/2020/10/21/Mac%E9%85%8D%E7%BD%AEmysql/</loc>
+    
+    <lastmod>2020-10-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lionlzq.xyz/about/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>http://lionlzq.xyz/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,18 +61,46 @@
   
   <url>
     <loc>http://lionlzq.xyz/tags/%E9%9A%8F%E8%AE%B0/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://lionlzq.xyz/tags/markdown/</loc>
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lionlzq.xyz/tags/Mac/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lionlzq.xyz/tags/Mysql/</loc>
+    <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://lionlzq.xyz/categories/Mac/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lionlzq.xyz/categories/Mac/Mysql/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>

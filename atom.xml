@@ -6,7 +6,7 @@
   <link href="http://lionlzq.xyz/atom.xml" rel="self"/>
   
   <link href="http://lionlzq.xyz/"/>
-  <updated>2020-10-09T07:40:16.673Z</updated>
+  <updated>2020-10-21T13:36:45.970Z</updated>
   <id>http://lionlzq.xyz/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac配置mysql</title>
+    <link href="http://lionlzq.xyz/2020/10/21/Mac%E9%85%8D%E7%BD%AEmysql/"/>
+    <id>http://lionlzq.xyz/2020/10/21/Mac%E9%85%8D%E7%BD%AEmysql/</id>
+    <published>2020-10-21T13:32:40.000Z</published>
+    <updated>2020-10-21T13:36:45.970Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="问题："><a href="#问题：" class="headerlink" title="问题："></a>问题：</h1><p>安装完mysql，终端运行提示：<code>zsh: command not found: mysql</code>的提示。</p><h1 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h1><blockquote><p>1、在终端进入目录：/usr/local/bin</p><p>cd /usr/local/bin/</p><p>2、在终端设置mysql命令路径</p><p>sudo ln -fs /usr/local/mysql/bin/mysql mysql</p><p>3、输入mysql -u root -p</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;问题：&quot;&gt;&lt;a href=&quot;#问题：&quot; class=&quot;headerlink&quot; title=&quot;问题：&quot;&gt;&lt;/a&gt;问题：&lt;/h1&gt;&lt;p&gt;安装完mysql，终端运行提示：&lt;code&gt;zsh: command not found: mysql&lt;/code&gt;的提示。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    <category term="Mac" scheme="http://lionlzq.xyz/categories/Mac/"/>
+    
+    <category term="Mysql" scheme="http://lionlzq.xyz/categories/Mac/Mysql/"/>
+    
+    
+    <category term="Mac" scheme="http://lionlzq.xyz/tags/Mac/"/>
+    
+    <category term="Mysql" scheme="http://lionlzq.xyz/tags/Mysql/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法</title>
